@@ -1,5 +1,5 @@
 from director import Director
-from dealer import Deal
+from dealer import Dealer
 
 
 director = Director()
